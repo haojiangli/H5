@@ -1,0 +1,1212 @@
+body{
+    margin: 0 0;
+}
+.swiper-container{
+    width: 100vw;
+    height: 100vh;
+}
+.page2{
+    width: 100vw;
+    height: 100vh;
+    /* background: olive; */
+    position: relative;
+}
+.page2_bg{
+    width: 7.50rem;
+    height: 5.02rem;
+    background: antiquewhite;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: url(../images/page2_bg.png);
+    background-size: cover;
+}
+.page2_logo{
+    width: 1.08rem;
+    height: 0.53rem;
+    background-color: aqua;
+    position: absolute;
+    top: 0.38rem;
+    left: 0.23rem;
+    background: url(../images/page2_logo.png);
+    background-size: cover;
+}
+.page2_chuang{
+    width: 4.73rem;
+    height: 0.83rem;
+    /* background-color: aquamarine; */
+    position: absolute;
+    top: 1.09rem;
+    left: 2.49rem;
+    background: url(../images/page2_chuang.png);
+    background-size: cover;
+}
+.page2_box1{
+    width: 3.83rem;
+    height: 5.67rem;
+    background-color: #31363E;
+    position: absolute;
+    top: 3.04rem;
+    left: 0.29rem;
+}
+.page2_box11{
+    width: 1.92rem;
+    height: 0.25rem;
+    /* background-color: blueviolet; */
+    position: absolute;
+    top:0.35rem;
+    left:0.9rem;
+    font-size: 0.25rem;
+    font-family: PingFang-SC-Bold;
+    color: #FFFFFF;
+    line-height: 0.25rem;
+}
+.page2_box12{
+    width: 1.85rem;
+    height: 0.4rem;
+    /* background-color: blueviolet; */
+    position: absolute;
+    top: 0.75rem;
+    left: 0.93rem;
+    font-size: 0.16rem;
+    color: #B2B2B2;
+    font-family: Lucida Calligraphy;
+    text-align: center;
+}
+.page2_box13{
+    width: 3.41rem;
+    height: 1.77rem;
+    /* background-color: blueviolet; */
+    position: absolute;
+    top: 1.42rem;
+    left: 0.28rem;
+    color: #B8B8B8;
+    font-size: 0.19rem;
+    font-family: PingFang-SC-Medium;
+}
+.page2_box14{
+    width: 3.28rem;
+    height: 1.87rem;
+    background-color: blueviolet;
+    position: absolute;
+    top: 3.50rem;
+    left: 0.27rem;
+    background: url(../images/page_box14.png);
+    background-size: cover;
+}
+.page2_box2{
+    width: 3.83rem;
+    height: 5.67rem;
+    background-color: #31363E;
+    position: absolute;
+    top: 3.04rem;
+    left: 3.36rem;
+}
+.page2_box21{
+    width: 1.92rem;
+    height: 0.25rem;
+    /* background-color: blueviolet; */
+    position: absolute;
+    top:0.35rem;
+    left:0.9rem;
+    font-size: 0.25rem;
+    font-family: PingFang-SC-Bold;
+    color: #FFFFFF;
+    line-height: 0.25rem;
+}
+.page2_box22{
+    width: 1.85rem;
+    height: 0.4rem;
+    /* background-color: blueviolet; */
+    position: absolute;
+    top: 0.75rem;
+    left: 0.93rem;
+    font-size: 0.16rem;
+    color: #B2B2B2;
+    font-family: Lucida Calligraphy;
+    text-align: center;
+}
+.page2_box23{
+    width: 3.41rem;
+    height: 1.77rem;
+    /* background-color: blueviolet; */
+    position: absolute;
+    top: 1.42rem;
+    left: 0.28rem;
+    color: #B8B8B8;
+    font-size: 0.19rem;
+    font-family: PingFang-SC-Medium;
+}
+.page2_box24{
+    width: 3.28rem;
+    height: 1.87rem;
+    background-color: blueviolet;
+    position: absolute;
+    top: 3.50rem;
+    left: 0.27rem;
+    background: url(../images/page2_box24.png);
+    background-size: cover;
+}
+.page2_box3{
+    width: 4.81rem;
+    height: 7.13rem;
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 2.32rem;
+    left: 1.40rem;
+}
+.page2_box31{
+    width: 2.41rem;
+    height: 0.3rem;
+    /* background-color: blueviolet; */
+    position: absolute;
+    top:0.45rem;
+    left:1.13rem;
+    font-size: 0.25rem;
+    font-family: PingFang-SC-Bold;
+    color: #090909;
+    line-height: 0.25rem;
+}
+.page2_box32{
+    width: 3.60rem;
+    height: 0.51rem;
+    /* background-color: blueviolet; */
+    position: absolute;
+    top: 0.92rem;
+    left: 0.56rem;
+    font-size: 0.18rem;
+    color: #9D9D9D;
+    font-family: Lucida Calligraphy;
+    text-align: center;
+}
+.page2_box33{
+    width: 4.20rem;
+    height: 2.21rem;
+    /* background-color: blueviolet; */
+    position: absolute;
+    top: 1.79rem;
+    left: 0.36rem;
+    color: #878787;
+    font-size: 0.24rem;
+    font-family: PingFang-SC-Medium;
+}
+.page2_box34{
+    width: 4.10rem;
+    height: 2.34rem;
+    background-color: blueviolet;
+    position: absolute;
+    top: 4.40rem;
+    left: 0.35rem;
+    background: url(../images/page2_box34.png);
+    background-size: cover;
+    font-family:  PingFang-SC-Medium;
+}
+.page2_edu{
+    width: 4.0rem;
+    height: 0.8rem;
+    position: absolute;
+    background-color: coral;
+    bottom: 1.43rem;
+    left: 0.31rem;
+    background: url(../images/page2_edu.png);
+    background-size: cover;
+}
+.page2_stage{
+    width: 2.25rem;
+    height: 0.24rem;
+    /* background-color: cornflowerblue; */
+    position: absolute;
+    bottom: 1.45rem;
+    right:0.31rem;
+    color: #424242;
+    font-size: 0.24rem;
+    line-height: 0.24rem;
+    font-family: SimSun;
+    letter-spacing: 0.03rem;
+}
+.page2_biao{
+    width: 0.42rem;
+    height: 0.22rem;
+    background-color: darkcyan;
+    position: absolute;
+    bottom: 0.68rem;
+    left: 3.53rem;
+    background: url(../images/page2_biao.png);
+    background-size: cover;
+}
+.page7{
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+
+.top{
+    width:100vw;
+    height:7.25rem;
+    background:url(../images/page7-8.png);
+    background-size:cover;
+    position: absolute;
+}
+.top .logo{
+    width: 1.04rem;
+    height: 0.44rem;
+    background: url(../images/page7-1.png);
+    background-size: cover;
+    position: absolute;
+    top: 0.4rem;
+    left: 0.31rem;
+}
+.t1{
+    width:5.03rem;
+    height:.68rem;
+    background: url(../images/page7-7.png);
+    background-size: cover;
+    position: absolute;
+    top:1.39rem;
+    left:1.3rem;
+}
+.t2{
+    width:1.24rem;
+    height:0.29rem;
+    background: url(../images/page7-9.png);
+    background-size: cover;
+    position: absolute;
+    top: 1.63rem;
+    left: 3.11rem;
+}
+.t3{
+    width:6.84rem;
+    height:4.47rem;
+    background: url(../images/page7-5.png);
+    background-size: cover;
+    position: absolute;
+    top: 2.47rem;
+    left: 0.32rem; 
+}
+.t4{
+    width:6.5rem;
+    height:3.57rem;
+    position: absolute;
+    top:2.72rem;
+    left:.59rem;
+    font-size: 14px; 
+    line-height: 20px;
+    font-family: fantasy;
+    font-weight:bold;
+    color: rgb(154, 156, 158);
+}
+.t5{
+    width:6.31rem;
+    height:3.38rem;
+    background:url(../images/page7-3.png);
+    background-size:cover;
+    position: absolute;
+    top:8.04rem;
+    left:.58rem;
+}
+.t6{
+    width:0.41rem;
+    height:0.23rem;
+    background:url(../images/page7-2.png);
+    background-size:cover;
+    position: absolute;
+    top:12.21rem;
+    left:3.55rem;
+}
+.page1{
+    width:100vw;
+    height:100vh;
+    background:url(../images/1bg.png);
+    background-size:cover;
+    position: relative;
+}
+
+.page1 .logo{
+   width:1.07rem;
+   height:0.54rem;
+   background:url(../images/1.png);
+   background-size:cover;
+   position: absolute;
+   left:0.29rem;
+   top:0.29rem;
+}
+
+.page1 .img1{
+    width:5.62rem;
+    height:1.8rem;
+    background:url(../images/2.png);
+    background-size:cover;
+    position: absolute;
+    left:1rem;
+    top:1.86rem; 
+}
+
+.page1 .line{
+    width:.68rem;
+    height:.05rem;
+    background:#fff;
+    position: absolute;
+    left:1.05rem;
+    top:4.02rem;
+}
+
+.page1 .img2{
+    width:4.86rem;
+    height:.77rem;
+    background:url(../images/4.png);
+    background-size:cover;
+    position: absolute;
+    left:1.07rem;
+    top:4.32rem;
+}
+
+.page1 .img3{
+    width:1.42rem;
+    height:.44rem;
+    background:url(../images/5.png);
+    background-size:cover;
+    position: absolute;
+    left:0.29rem;
+    top:5.81rem;
+}
+
+.page1 .content{
+    width:6.9rem;
+    height:3.5rem;
+    background:rgba(39,39,39,.7);
+    border-radius:.05rem;
+    position: absolute;
+    left:.29rem;
+    top:6.62rem;
+    color:#fff;
+    font-size:.24rem;
+    padding:.45rem;
+    font-family: PingFang;
+    box-sizing: border-box;
+}
+.page1 .bottom{
+    width:0.39rem;
+    height:0.23rem;
+    background:url(../images/6.png);
+    background-size:cover;
+    position: absolute;
+    left:3.94rem;
+    top:12.53rem;
+}
+.swiper-container{
+    width: 100vw;
+    height: 100vh;
+}
+.page3{
+    width: 100vw;
+    height: 100vh;
+    background-color:white;   
+    position: relative;
+}
+.page3 .logo{
+    width: 0.98rem;
+    height: 0.49rem;
+    position: absolute;
+    background:url(../images/logo.png) no-repeat 0 0/cover;
+    top: 0.28rem;
+    left: 0.28rem;
+}
+.page3 .tupian1{
+    width: 5.18rem;
+    height: 3.06rem;
+    position: absolute;
+    background:url(../images/tupian1.png) no-repeat 0 0/cover;
+    top: 0rem;
+    right:0rem;
+}
+.page3 .tupian2{
+    width: 4.7rem;
+    height: 0.86rem;
+    position: absolute;
+    background:url(../images/tupian2.png) no-repeat 0 0/cover;
+    top: 1.5rem;
+   left:0.3rem;
+}
+.page3 .tupian3{
+    width: 2.03rem;
+    height: 2.03rem;
+    position: absolute;
+    background:url(../images/tupian3.png) no-repeat 0 0/cover;
+    top: 2.5rem;
+   left:0.3rem;
+}
+.page3 .tupian4{
+    width: 0.8rem;
+    height: 0.8rem;
+    position: absolute;
+    background:url(../images/tupian4.png) no-repeat 0 0/cover;
+    top: 3.06rem;
+   left:2.32rem;
+}
+.page3 .tupian5{
+    width: 1.9rem;
+    height: 0.77rem;
+    position: absolute;
+    background:url(../images/tupian5.png) no-repeat 0 0/cover;
+    top: 3.82rem;
+   left:3.13rem;
+}
+.page3 .tupian6{
+    width: 2rem;
+    height: 2rem;
+    position: absolute;
+    background:url(../images/tupian6.png) no-repeat 0 0/cover;
+    top: 3.06rem;
+    right:0.49rem;
+}
+.page3 .tupian7{
+    width: 4.38rem;
+    height: .87rem;
+    position: absolute;
+    background:url(../images/tupian7.png) no-repeat 0 0/cover;
+    top: 4.92rem;
+    left:0.67rem;
+}
+
+.page3 .tupian8{
+    width: 1.03rem;
+    height:1.03rem;
+    position: absolute;
+    background:url(../images/tupian8.png) no-repeat 0 0/cover;
+    top: 5.05rem;
+    left:6.47rem;
+}
+.page3 .wenzi1
+{
+    width: 4rem;
+    height: 0.3rem;
+    position: absolute;
+    font-size:14px;
+    font-weight:800;
+    color:rgba(66,66,66,1);
+    top: 5.81rem;
+    left:1.72rem;
+}
+.page3 .wenzi2{
+    width: 4rem;
+    height: 0.3rem;
+    position: absolute;
+    font-size:14px;
+    font-weight:800;
+    color:rgba(66,66,66,1);
+    top: 5.81rem;
+    left:3.6rem;
+}
+.page3 .wenzi3{
+    width:5rem;
+    height:0.7rem;
+    position: absolute;
+    top: 6.26rem;
+    left:0.42rem;
+    font-size:14px;
+    font-weight:800;
+    color:rgba(154,154,154,1);
+}
+.page3 .wenzi4{
+    width: 5rem;
+    height: 1.2rem;
+    position: absolute;
+    top: 7.1rem;
+    left:0.42rem;
+    font-size:14px;
+    font-weight:800;
+    color:rgba(154,154,154,1);
+}
+
+.page3 .tupian9{
+    width: 7.5rem;
+    height:3.5rem;
+    position: absolute;
+    background:url(../images/tupian9.jpg) no-repeat 0 0/cover;
+    bottom: 0; 
+}
+.page3 .tupian10{
+    width: 1.33rem;
+    height:2.52rem;
+    position: absolute;
+    background:url(../images/tupian10.png) no-repeat 0 0/cover;
+    bottom: 2.18rem; 
+    right: 1.02rem;
+}
+.page3 .tupian11{
+    width: 4.15rem;
+    height:0.85rem;
+    position: absolute;
+    background:url(../images/tupian11.png) no-repeat 0 0/cover;
+    bottom: 2.05rem; 
+    left: 0.27rem;
+}
+.page3 .wenzi5
+{
+    width: 2rem;
+    height: 0.3rem;
+    position: absolute;
+    font-size:14px;
+    font-weight:800;
+    color:#FFFFFF;
+    bottom: 1.72rem;
+    left:0.33rem;
+}
+.page3 .wenzi6{
+    width: 2rem;
+    height: 0.3rem;
+    position: absolute;
+    font-size:14px;
+    font-weight:800;
+    color:#FFFFFF;
+    bottom: 1.72rem;
+    left:2rem;
+}
+.page3 .wenzi7{
+    width: 4.5rem;
+    height: 0.3rem;
+    position: absolute;
+    font-size:14px;
+    font-weight:800;
+    color:#FFFFFF;
+    bottom: 1.11rem;
+    left:0.32rem;
+}
+.page3 .tupian12{
+    width: 0.56rem;
+    height:1.04rem;
+    position: absolute;
+    background:url(../images/tupian12.png);
+    top: 5.05rem; 
+    left: 5.91rem;
+}
+.page3 .tupian13{
+    width: 1.03rem;
+    height:0.62rem;
+    position: absolute;
+    background:url(../images/tupian12.png);
+    top: 6.09rem; 
+    right: 0;
+}
+.page3 .tupian14{
+    width: 0.49rem;
+    height:0.49rem;
+    position: absolute;
+    background:url(../images/tupian12.png);
+    top: 4.56rem; 
+    right: 0;
+}
+.page8{
+    width:100vw;
+    height:100vh;
+    position: relative;
+}
+.page8 .page8_box1{
+    width:1.09rem;
+    height:0.55rem;
+    background:url(../images/pege8.1.png);
+    background-size:cover;
+    position: absolute;
+    left:0.29rem;
+    top:0.5rem;
+}
+.page8 .page8_box2{
+    width:6.16rem;
+    height:0.66rem;
+    background:url(../images/pege8.2.png);
+    background-size:cover;
+    position: absolute;
+    left:0.45rem;
+    top:1.92rem;
+}
+.page8 .page8_box2_1{
+    width:1.8rem;
+    height:0.38rem;
+    background-size:cover;
+    position: absolute;
+    left:2.44rem;
+    top:0.15rem;
+    color:#3d3d3d;
+    font-size:.34rem;
+    font-weight: bold;
+    font-family: PingFang;
+}
+.page8 .page8_box3{
+    width:6.9rem;
+    height:3.27rem;
+    background:url(../images/pege8.3.png);
+    background-size:cover;
+    position: absolute;
+    left:0.29rem;
+    top:3.13rem;
+}
+.page8 .page8_box4{
+    width:7.03rem;
+    height:1.51rem;
+    background:url(../images/pege8.4.png);
+    background-size:cover;
+    position: absolute;
+    left:0.20rem;
+    top:6.86rem;
+}
+.page8 .page8_box5{
+    width:6.9rem;
+    height:1.75rem;
+    background-size:cover;
+    position: absolute;
+    left:0.30rem;
+    top:8.98rem;
+}
+.page8 .page8_box5_l{
+    width:3.3rem;
+    height:1.75rem;
+    background:#2ABB75;
+    background-size:cover;
+    position: absolute;
+    left:0;
+    top:0;
+}
+.page8 .page8_box5_r{
+    width:3.3rem;
+    height:1.75rem;
+    background:#00ABF6;
+    background-size:cover;
+    position: absolute;
+    left:3.6rem;
+    top:0;
+}
+.page8 .page8_box5_ls{
+    width:1.12rem;
+    height:0.27rem;
+    background-size:cover;
+    position: absolute;
+    left:0.18rem;
+    top:0.1rem;
+    font-size:0.28rem;
+    font-weight:bold;
+    color:#fff; 
+    font-family: PingFang;
+}
+.page8 .page8_box5_lx{
+    width:2.94rem;
+    height:1.2rem;
+    background-size:cover;
+    position: absolute;
+    left:0.18rem;
+    top:0.51rem;
+    font-size:0.16rem;
+    color:#fff;  
+    font-family: PingFang;
+}
+.page8 .page8_box5_rs{
+    width:1.12rem;
+    height:0.27rem;
+    background-size:cover;
+    position: absolute;
+    left:0.18rem;
+    top:0.1rem;
+    font-size:0.28rem;
+    font-weight:bold;
+    font-family: PingFang;
+    color:#fff; 
+}
+.page8 .page8_box5_rx{
+    width:2.94rem;
+    height:1.2rem;
+    background-size:cover;
+    position: absolute;
+    left:0.18rem;
+    top:0.51rem;
+    font-size:0.16rem;
+    color:#fff;  
+    font-family: PingFang;
+}
+.page8 .page8_box6{
+    width:1.64rem;
+    height:0.18rem;
+    background-size:cover;
+    position: absolute;
+    left:2.94rem;
+    top:11.53rem;
+}
+.page8 .page8_box6l{
+    width:0.18rem;
+    height:0.18rem;
+    background-size:cover;
+    position: absolute;
+    background: url(../images/pege8.5.png) 0 0 /cover;;
+    left:0rem;
+    top:0rem;
+}
+.page8 .page8_box6r{
+    width:1.5rem;
+    height:0.16rem;
+    background-size:cover;
+    position: absolute;
+    left:0.24rem;
+    top:-0.05rem;
+    font-size:0.12rem;
+    color:#8A8A8A;  
+}
+.page8 .page8_box7{
+    width:1.64rem;
+    height:0.18rem;
+    background-size:cover;
+    position: absolute;
+    left:2.68rem;
+    top:12.03rem;
+}
+.page8 .page8_box7l{
+    width:0.30rem;
+    height:0.18rem;
+    background-size:cover;
+    position: absolute;
+    background: url(../images/pege8.6.png) 0 0 /cover;;
+    left:-0.08rem;
+    top:0rem;
+}
+.page8 .page8_box7r{
+    width:1.9rem;
+    height:0.16rem;
+    background-size:cover;
+    position: absolute;
+    left:0.24rem;
+    top:-0.05rem;
+    font-size:0.12rem;
+    color:#8A8A8A;  
+}
+.page5 .img1{
+    width: 7.5rem;
+    height: 6.98rem;
+    background: url(../images/page5-img1.png);
+    background-size: cover;
+    position: relative;
+}
+
+.page5 .logo1{
+    width:1.07rem;
+    height:0.54rem;
+    background: url(../images/page5-1.png);
+    background-size: cover;
+    position: absolute;
+    left: 0.29rem;
+    top: 0.3rem;
+}
+
+.page5 .logo2{
+    width: 2.15rem;
+    height: 0.71rem;
+    background: url(../images/Noah.png);
+    background-size: cover;
+    position: absolute;
+    left: 0.35rem;
+    top: 1.31rem;
+}
+.page5 .title1{
+    width:3.68rem ;
+    height:0.33rem ;
+    /* background: blue; */
+    font-size: 0.30rem;
+    font-family: PingFang-SC-Regular;
+    color: #F7F9FB;
+    position: absolute;
+    left:0.35rem ;
+    top:2.26rem ;
+}
+.page5 .title2{
+    width:6.20rem ;
+    height:0.18rem ;
+    /* background: blue; */
+    font-size: 0.18rem;
+    font-family: PingFang-SC-Regular;
+    color: #F7F9FB;
+    position: absolute;
+    left:0.33rem ;
+    top:2.80rem ;
+}
+.page5 .bg1{
+    width:4.16rem;
+    height:0.38rem;
+    background: #FFFFFF;
+    background-size: cover;
+    position: absolute;
+    left: 3.34rem;
+    top: 1.19rem;
+}
+.page5 .title3{
+    width:3.64rem ;
+    height:0.28rem ;
+    background:url(../images/诺阿文创坊.png);
+    background-size: cover;
+    /* font-size: 0.18rem;
+    font-family: MicrosoftYaHei;
+    color: #F7F9FB; */
+    position: absolute;
+    left:3.55rem ;
+    top:1.26rem ;
+    z-index: 90;
+}
+.page5 .bg2{
+    width:2.84rem;
+    height:0.38rem;
+    background: #FFFFFF;
+    background-size: cover;
+    position: absolute;
+    left: 4.65rem;
+    top: 1.58rem;
+}
+
+
+.page5 .title4{
+    width:2.42rem ;
+    height:0.27rem ;
+    font-size: 0.34rem;
+    font-family: PingFang-SC-Regular;
+    font-weight: bold;
+    color: #E8B641;
+    position: absolute;
+    left:4.78rem ;
+    top:1.56rem ;
+}
+.page5 .bg3{
+    width: 6.94rem;
+    height: 2.50rem;
+    background: rgb(40, 40, 40,0.6);
+    position: absolute;
+    left:0.27rem ;
+    top:3.65rem ;
+}
+.page5 .content{
+    width: 6.40rem;
+    height: 1.91rem;
+    font-size: 0.24rem;
+    font-family: PingFang-SC-Regular;
+    color: #F7F9FB;
+    position: absolute;
+    left:0.57rem ;
+    top:3.81rem ;
+    letter-spacing: 0.09rem;
+}
+.page5 .img2{
+    width: 4.14rem;
+    height: 3.28rem;
+    background: url(../images/halanna-halila-_8m1CXvu2Yg-unsplash.png);
+    position: absolute;
+    left:0.28rem ;
+    top:7.39rem ;       
+}
+.page5 .img3{
+    width: 2.52rem;
+    height: 1.54rem;
+    background: url(../images/jim-quenzer--qS8asng40w-unsplash.png);
+    position: absolute;
+    left:4.68rem ;
+    top:7.39rem ;       
+}
+.page5 .img4{
+    width: 2.52rem;
+    height: 1.54rem;
+    background: url(../images/mick-haupt-VbI0LMaGMlg-unsplash.png);
+    position: absolute;
+    left:4.68rem ;
+    top:9.12rem ;       
+}
+.page5 .logo3{   
+    width: 0.42rem;
+    height:0.24rem;
+    background: url(../images/下方向.png);
+    background-size: cover;
+    position: absolute;
+    left:3.54rem;
+    top:12.37rem;
+}
+    
+
+
+.page6{
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    position: relative;
+    /* background-color: aquamarine; */
+}
+.page6 .img{
+    width:7.49rem;
+    height: 3.02rem;
+    background:url(../images/img\ \(2\).png);
+    background-size: cover;
+    position: absolute;
+
+}
+.page6 .logo{
+    width: 1.07rem;
+    height: 0.54rem;
+    background: url(../images/page5-1.png);
+    background-size: cover;
+    position: absolute;
+    left: 0.29rem;
+    top: 0.29rem;
+    /* background: aqua; */
+}
+.page6 .img1{
+    width: 5.86rem;
+    height: 0.95rem;
+    background:url(../images/img1.png);
+    background-size: cover;
+    position: absolute;
+    left: 1.64rem;
+    top: 1.23rem;
+}
+.page6 .con{
+    width:6.66rem;
+    height:1.84rem;
+    font-size:0.24rem;
+    font-family:PingFang SC;
+    font-weight:bold;
+    color:#8A8A8A;
+    line-height:0.32rem;
+    position: absolute;
+    top:3.4rem;
+    left: 0.42rem;
+    /* background-color: rosybrown; */
+}
+.page6_right{
+    width: 2.12rem;
+    height: 3rem;
+    background:rgba(49,54,62,1);
+    position: absolute;
+    top: 6.31rem;
+    left: 0.29rem;
+}
+.page6_right_title{
+    width:1rem;
+    height:0.17rem;
+    font-size:0.18rem;
+    font-family:PingFang SC;
+    font-weight:bold;
+    color:rgba(255,255,255,1);
+    /* background-color: rosybrown; */
+    position: absolute;
+    left: 0.66rem;
+    top:0.26rem;
+}
+
+.page6_right_con{
+    width:1.72rem;
+    height:1.8rem;
+    background: url(../images/right_con.png);
+    position: absolute;
+    left:0.18rem;
+    top:0.85rem;
+}
+.page6_line1{
+    width:2.12rem;
+    height:.06rem;
+    background:rgba(68,142,250,1);
+    position: absolute;
+    left: 0.3rem;
+    top:9.31rem ;
+
+}
+.page6_mid{
+    width: 2.66rem;
+    height: 3.68rem;
+    background:white;
+    position: absolute;
+    top:5.55rem;
+    left:2.42rem;
+    /* background:rgba(255,255,255,1); */
+    box-shadow:0px 0px 20px 9px rgba(213,213,213,0.2);
+}
+.page6_mid_title{
+    width:1.39rem ;
+    height: .34rem;
+    background: url(../images/mid_title.PNG);
+    background-size: cover;
+    position: absolute;
+    left:0.66rem ;
+    top:0.40rem;
+}
+.page6_mid_con{
+    width: 2.43rem;
+    height: 2.23rem;
+    background: url(../images/mid_con.PNG);
+    position: absolute;
+    left:0.10rem;
+    top:1.15rem;
+}
+
+.page6_line2{
+    width:2.66rem;
+    height:0.14rem;
+    background:rgba(68,142,250,1);
+    position: absolute;
+    left: 2.42rem;
+    top:9.23rem ;
+
+}
+.page6_left{
+    width: 2.12rem;
+    height:3rem;
+    background:rgba(49,54,62,1);
+    position: absolute;
+    top:6.31rem;
+    left:5.09rem;
+}
+.page6_left_title{
+    width:1.5rem;
+    height:0.17rem;
+    font-size:0.18rem;
+    font-family:PingFang SC;
+    font-weight:bold;
+    color:rgba(255,255,255,1);
+    position: absolute;
+    top: 0.26rem;
+    left: 0.36rem;
+    /* background-color: aqua; */
+}
+.page6_left_con{
+    width:1.73rem;
+    height:1.8rem;
+    background: url(../images/right_con2PNG.PNG);
+    position: absolute;
+    left:0.18rem;
+    top:0.79rem;
+}
+.page6_line3{
+    width:2.12rem;
+    height:0.06rem;
+    background:rgba(68,142,250,1);
+    position: absolute;
+    left: 5.09rem;
+    top:9.31rem ;
+}
+.page6 .img2{
+    width: 4.07rem;
+    height: 0.79rem;
+    background:url(../images/img2.png);
+    background-size: cover;
+    position: absolute;
+    left:0.31rem;
+    bottom:1.5rem;
+}
+.page6 .img3{
+    width: 3.28rem;
+    height: 0.2rem;
+    background:url(../images/img3.png);
+    background-size: cover;
+    position: absolute;
+    left:3.92rem;
+    bottom:1.5rem;
+}
+.page6 .arrow{
+    width: 0.42rem;
+    height:0.24rem;
+    background: url(../images/下方向.png);
+    background-size: cover;
+    position: absolute;
+    left:3.54rem;
+    top:12.37rem;
+}
+.page4{
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    position: relative;
+}
+.page4 .logo{
+    width: 1.07rem;
+    height: 0.54rem;
+    background:url(../images/page4-1.png);
+    background-size: cover;
+    position: absolute;
+    left: 0.29rem;
+    top: 0.29rem;
+}
+.page4 .img1{
+    width: 2.31rem;
+    height: 0.76rem;
+    background: url(../images/page4-4.png);
+    background-size: cover;
+    position: absolute;
+    left: 0.4rem;
+    top: 1.4rem;
+}
+.page4 .img2{
+    width: 4.42rem;
+    height: 0.8rem;
+    background:  url(../images/page4-5.png);
+    background-size: cover;
+    position: absolute;
+    left:3.08rem;
+    top:1.4rem;
+}
+.page4 .img3{
+    width: 5.65rem;
+    height:0.67rem;
+    background:  url(../images/page4-2.png);
+    background-size: cover;
+    position: absolute;
+    left:0.37rem;
+    top:2.48rem;
+}
+.page4 .con4{
+    width: 6.9rem;
+    height:2.2rem;
+    background: rgba(39, 39, 39, .7);
+    border-radius: .05rem;
+    position: absolute;
+    left:0.3rem;
+    top:3.6rem;
+    font-size:0.24rem;
+    font-family:PingFang SC;
+    font-weight:bold;
+    color:rgba(209,209,209,1);
+    padding-top:0.22rem;
+    padding-left: 0.2rem;
+    box-sizing: border-box;
+}
+.page4 .bg4{
+    width: 7.5rem;
+    height: 7.0rem;
+    background: url(../images/page4-bg4.png);
+}
+.page4 .img4{
+    width: 4.3rem;
+    height:2.26rem;
+    background: url(../images/page4-3.png);
+    background-size: cover;
+    position: absolute;
+    left:2.9rem;
+    top:6.45rem;
+}
+.page4 .img5{
+    width: 2.39rem;
+    height:2.25rem;
+    background:  url(../images/page4-7.png);
+    background-size: cover;
+    position: absolute;
+    left:0.3rem;
+    top:6.45rem;
+}
+.page4 .content4{
+    width:6.81rem;
+    height:2.10rem;
+    font-size:0.22rem;
+    font-family:PingFang SC;
+    font-weight:bold;
+    color:rgba(133,133,133,1);
+    line-height:.45rem;
+    position: absolute;
+    top:8.97rem;
+    left: 0.39rem;
+}
+.page4 .arrow{
+    width: 0.42rem;
+    height:0.24rem;
+    background: url(../images/page4-8.png);
+    background-size: cover;
+    position: absolute;
+    left:3.54rem;
+    top:11.43rem;
+}
